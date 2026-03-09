@@ -1,0 +1,17 @@
+
+name: AqualennGuardian
+version: 2.0
+main: com.aqualenn.guardian.AqualennGuardianPlugin
+api-version: "1.21"
+author: ChatGPT
+commands:
+  horns:
+    description: Toggle Warden horns
+  sonicpulse:
+    description: Sonic pulse attack
+  wardenshield:
+    description: Activate Warden shield
+  rage:
+    description: Guardian rage mode
+  sculkdash:
+    description: Dash forward with sculk energy
